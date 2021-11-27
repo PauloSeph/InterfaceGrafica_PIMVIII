@@ -1,2 +1,2 @@
-# InterfaceGrafica_PIMVIII
- Desenvolvimento do protótipo de interface grafica com Android Studio
+# Android Studio - Trabalho Facul
+ Desenvolvendo Interface Gráfica com Android Studio
